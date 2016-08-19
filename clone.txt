@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 clone
 
 clone on PC 1
+=======
+clone
+>>>>>>> 6262572722574625e143e955f68b6251ef0c763e
